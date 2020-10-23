@@ -11,9 +11,8 @@
   "devDependencies": {},
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "export": "yarn build && next export"
+    "build": "next build && next export",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
